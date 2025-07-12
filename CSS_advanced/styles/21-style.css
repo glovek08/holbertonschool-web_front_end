@@ -338,7 +338,7 @@ ul.row {
     width: 50%;
 }
 
-.row [class^="col-"] {
+[class^="col-"] {
   float: left;
   padding: .5rem;
 }
